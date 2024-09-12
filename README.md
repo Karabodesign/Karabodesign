@@ -35,6 +35,7 @@ A project focused on enhancing the accessibility of Karabo products, ensuring co
 We are a diverse team of UX/UI designers, researchers, and product strategists dedicated to creating meaningful digital experiences.
 
 - **Ssempijja Charles** - Lead UX Designer | Specialized in user research, interaction design, and prototyping.
+- - **Matshi Matolo** - Lead Engineer
 
 ## 🚀 How to Contribute
 
